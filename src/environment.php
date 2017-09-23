@@ -10,7 +10,7 @@ if (isset($_SERVER['HTTP_X_FORWARDED_HOST']) && !empty($_SERVER['HTTP_X_FORWARDE
 $hostname = filter_var($hostname, FILTER_SANITIZE_STRING);
 
 if($hostname == "localhost")
-  // define('SLIM_HOST', $hostname."/apps/maquipesa/#!/");
+  // define('SLIM_HOST', $hostname."/");
 
 switch ($hostname) {
   case 'localhost':

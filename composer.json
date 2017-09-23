@@ -1,13 +1,13 @@
 {
-    "name": "parredondo/slim-api-project",
+    "name": "parredondo/slim-api-skeleton",
     "description": "An API application built with Slim Framework",
     "keywords": ["microframework", "rest", "router", "psr7", "api", "phinx"],
-    "homepage": "",
+    "homepage": "https://github.com/parredondov/slim-api-skeleton",
     "license": "MIT",
     "authors": [
         {
             "name": "Pablo Arredondo",
-            "email": "parredondov91@gmail.com"
+            "email": "p.arredondov91@gmail.com"
         }
     ],
     "require": {
